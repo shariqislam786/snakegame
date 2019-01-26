@@ -7,6 +7,7 @@ Features:
 2. All Cases with 100% test coverage.
 3. Best Coding practices with easy to understand code.
 4. Play/Pause
+5. Inputs are implemented via queue so all inputs are executed in the order they were made.
 
 
 ![Snake game screenshot](screenshot.png)
